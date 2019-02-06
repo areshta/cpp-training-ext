@@ -1,0 +1,18 @@
+
+C++14 generic lambdas make it possible to write:
+
+auto lambda = [](auto x, auto y) {return x + y;};
+
+C++11 requires that lambda parameters be declared with concrete types
+
+
+TASK:
+
+Implement lambda function which take any variable(long, integer, double,
+float) as parameter and return sqare of it using C++14 generic lambdas.
+
+EXTRA:
+
+Implement same function(s) without C++14 generic lambdas. Use C++11.
+   
+

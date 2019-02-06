@@ -35,3 +35,9 @@ int main()
 
 	return 0;
 }
+
+/*
+ * Implement a program checking if tuple addressing via type works correctly
+ * with pointers to derived and base classes
+ */
+ */

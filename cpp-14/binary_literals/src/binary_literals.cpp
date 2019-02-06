@@ -20,6 +20,6 @@ int main()
 }
 
 /*
-Write a program to coninuously read a binary number from standard input
-and to output it in decimal form
+ * Write a program to continuously read a binary number from standard input
+ * and to output it in decimal form
 */

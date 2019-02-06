@@ -20,3 +20,9 @@ int main() {
 
 	return 0;
 }
+
+/*
+ * Implement a program to check if alternate type deduction works
+ * correctly with templates
+ */
+

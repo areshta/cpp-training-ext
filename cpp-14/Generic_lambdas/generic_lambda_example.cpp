@@ -8,7 +8,7 @@ int main()
 
     auto lambda = [](auto x, auto y) {return x + y;};
 
-    //C++11 requires that lambda parameters be declared with concrete types:
+    //C++11 requires that lambda parameters be declared with concrete types
 
     int result1 = lambda(2, 3);
     double result2 = lambda(2.4, 5.5);

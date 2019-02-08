@@ -1,0 +1,9 @@
+Low:
+    Make currying for cout construction, out must be like "Good <afternoon/morning/evening>, <user_name>"
+
+Middle:
+    Make function that calculates fibonachi by closure
+
+Hight:
+    Count sort iteration in sort algorithm in <algorithm> library
+
